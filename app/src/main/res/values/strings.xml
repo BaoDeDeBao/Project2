@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Name: Ng De Bao
+        \n\nAddress: No 43, Jalan Banang Ria 3, Taman Banang Ria,\n
+        83000 Batu Pahat Johor.
+        \n\nEducation: Tunku Abdul Rahman University College
+        \n\nCourse: Software Systems Development
+        \n\nHobby: Playing guitar
+        \n\nWorking experience: Wiring Technician
+
+        Name: Ng De Bao
+        \n\nAddress: No 43, Jalan Banang Ria 3, Taman Banang Ria,\n
+        83000 Batu Pahat Johor.
+        \n\nEducation: Tunku Abdul Rahman University College
+        \n\nCourse: Software Systems Development
+        \n\nHobby: Playing guitar
+        \n\nWorking experience: Wiring Technician
+
+        Name: Ng De Bao
+        \n\nAddress: No 43, Jalan Banang Ria 3, Taman Banang Ria,\n
+        83000 Batu Pahat Johor.
+        \n\nEducation: Tunku Abdul Rahman University College
+        \n\nCourse: Software Systems Development
+        \n\nHobby: Playing guitar
+        \n\nWorking experience: Wiring Technician
+
+    </string>
+</resources>
